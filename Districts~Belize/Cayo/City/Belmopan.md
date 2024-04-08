@@ -12,8 +12,10 @@ isDeleted: false
 confidential: public
 
 ---
-[geo-lon::-88.76667] 
-[geo-lat::17.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-88.76667] 
+[has_place_latitude::17.25] 
 [name::Belmopan] 
 State ::  
 Country :: [[../../../../Belize]] 

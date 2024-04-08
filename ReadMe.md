@@ -126,8 +126,10 @@ Capital :: [[Belize/Counties/Cayo/City/Belmopan]]
 
 [Alcohol-l::6.1] 
 [Language-Id::499] 
-[geo-lon::-88.7667] 
-[geo-lat::17.25] 
+#is_a_/Place  
+#is_a_ :: [[Place]] 
+[has_place_longitude::-88.7667] 
+[has_place_latitude::17.25] 
 
 
 
