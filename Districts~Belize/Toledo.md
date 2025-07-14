@@ -41,15 +41,17 @@ markerFolder: ./Toledo/
 
 ## Confidential Links & Embeds: 
 
-### [Toledo.public](/_public/\Earth\Continent\America~Central\Belize\Districts~BelizeToledo.public.md) 
+### [Toledo](/_Standards/Earth/Continent/America~Central/Belize/Districts~Belize/Toledo.md) 
 
-### [Toledo.internal](/_internal/\Earth\Continent\America~Central\Belize\Districts~BelizeToledo.internal.md) 
+### [Toledo.public](/_public/Earth/Continent/America~Central/Belize/Districts~Belize/Toledo.public.md) 
 
-### [Toledo.protect](/_protect/\Earth\Continent\America~Central\Belize\Districts~BelizeToledo.protect.md) 
+### [Toledo.internal](/_internal/Earth/Continent/America~Central/Belize/Districts~Belize/Toledo.internal.md) 
 
-### [Toledo.private](/_private/\Earth\Continent\America~Central\Belize\Districts~BelizeToledo.private.md) 
+### [Toledo.protect](/_protect/Earth/Continent/America~Central/Belize/Districts~Belize/Toledo.protect.md) 
 
-### [Toledo.personal](/_personal/\Earth\Continent\America~Central\Belize\Districts~BelizeToledo.personal.md) 
+### [Toledo.private](/_private/Earth/Continent/America~Central/Belize/Districts~Belize/Toledo.private.md) 
 
-### [Toledo.secret](/_secret/\Earth\Continent\America~Central\Belize\Districts~BelizeToledo.secret.md)
+### [Toledo.personal](/_personal/Earth/Continent/America~Central/Belize/Districts~Belize/Toledo.personal.md) 
+
+### [Toledo.secret](/_secret/Earth/Continent/America~Central/Belize/Districts~Belize/Toledo.secret.md)
 

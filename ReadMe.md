@@ -132,15 +132,17 @@ Capital :: [[Belize/Counties/Cayo/City/Belmopan]]
 
 ## Confidential Links & Embeds: 
 
-### [ReadMe.public](/_public/\Earth\Continent\America~Central\BelizeReadMe.public.md) 
+### [ReadMe](/_Standards/Earth/Continent/America~Central/Belize/ReadMe.md) 
 
-### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\BelizeReadMe.internal.md) 
+### [ReadMe.public](/_public/Earth/Continent/America~Central/Belize/ReadMe.public.md) 
 
-### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\BelizeReadMe.protect.md) 
+### [ReadMe.internal](/_internal/Earth/Continent/America~Central/Belize/ReadMe.internal.md) 
 
-### [ReadMe.private](/_private/\Earth\Continent\America~Central\BelizeReadMe.private.md) 
+### [ReadMe.protect](/_protect/Earth/Continent/America~Central/Belize/ReadMe.protect.md) 
 
-### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\BelizeReadMe.personal.md) 
+### [ReadMe.private](/_private/Earth/Continent/America~Central/Belize/ReadMe.private.md) 
 
-### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\BelizeReadMe.secret.md)
+### [ReadMe.personal](/_personal/Earth/Continent/America~Central/Belize/ReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/Earth/Continent/America~Central/Belize/ReadMe.secret.md)
 

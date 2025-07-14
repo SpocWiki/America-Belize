@@ -41,15 +41,17 @@ markerFolder: ./Corozal/
 
 ## Confidential Links & Embeds: 
 
-### [Corozal.public](/_public/\Earth\Continent\America~Central\Belize\Districts~BelizeCorozal.public.md) 
+### [Corozal](/_Standards/Earth/Continent/America~Central/Belize/Districts~Belize/Corozal.md) 
 
-### [Corozal.internal](/_internal/\Earth\Continent\America~Central\Belize\Districts~BelizeCorozal.internal.md) 
+### [Corozal.public](/_public/Earth/Continent/America~Central/Belize/Districts~Belize/Corozal.public.md) 
 
-### [Corozal.protect](/_protect/\Earth\Continent\America~Central\Belize\Districts~BelizeCorozal.protect.md) 
+### [Corozal.internal](/_internal/Earth/Continent/America~Central/Belize/Districts~Belize/Corozal.internal.md) 
 
-### [Corozal.private](/_private/\Earth\Continent\America~Central\Belize\Districts~BelizeCorozal.private.md) 
+### [Corozal.protect](/_protect/Earth/Continent/America~Central/Belize/Districts~Belize/Corozal.protect.md) 
 
-### [Corozal.personal](/_personal/\Earth\Continent\America~Central\Belize\Districts~BelizeCorozal.personal.md) 
+### [Corozal.private](/_private/Earth/Continent/America~Central/Belize/Districts~Belize/Corozal.private.md) 
 
-### [Corozal.secret](/_secret/\Earth\Continent\America~Central\Belize\Districts~BelizeCorozal.secret.md)
+### [Corozal.personal](/_personal/Earth/Continent/America~Central/Belize/Districts~Belize/Corozal.personal.md) 
+
+### [Corozal.secret](/_secret/Earth/Continent/America~Central/Belize/Districts~Belize/Corozal.secret.md)
 

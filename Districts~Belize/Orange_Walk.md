@@ -41,15 +41,17 @@ markerFolder: ./Orange_Walk/
 
 ## Confidential Links & Embeds: 
 
-### [Orange_Walk.public](/_public/\Earth\Continent\America~Central\Belize\Districts~BelizeOrange_Walk.public.md) 
+### [Orange_Walk](/_Standards/Earth/Continent/America~Central/Belize/Districts~Belize/Orange_Walk.md) 
 
-### [Orange_Walk.internal](/_internal/\Earth\Continent\America~Central\Belize\Districts~BelizeOrange_Walk.internal.md) 
+### [Orange_Walk.public](/_public/Earth/Continent/America~Central/Belize/Districts~Belize/Orange_Walk.public.md) 
 
-### [Orange_Walk.protect](/_protect/\Earth\Continent\America~Central\Belize\Districts~BelizeOrange_Walk.protect.md) 
+### [Orange_Walk.internal](/_internal/Earth/Continent/America~Central/Belize/Districts~Belize/Orange_Walk.internal.md) 
 
-### [Orange_Walk.private](/_private/\Earth\Continent\America~Central\Belize\Districts~BelizeOrange_Walk.private.md) 
+### [Orange_Walk.protect](/_protect/Earth/Continent/America~Central/Belize/Districts~Belize/Orange_Walk.protect.md) 
 
-### [Orange_Walk.personal](/_personal/\Earth\Continent\America~Central\Belize\Districts~BelizeOrange_Walk.personal.md) 
+### [Orange_Walk.private](/_private/Earth/Continent/America~Central/Belize/Districts~Belize/Orange_Walk.private.md) 
 
-### [Orange_Walk.secret](/_secret/\Earth\Continent\America~Central\Belize\Districts~BelizeOrange_Walk.secret.md)
+### [Orange_Walk.personal](/_personal/Earth/Continent/America~Central/Belize/Districts~Belize/Orange_Walk.personal.md) 
+
+### [Orange_Walk.secret](/_secret/Earth/Continent/America~Central/Belize/Districts~Belize/Orange_Walk.secret.md)
 

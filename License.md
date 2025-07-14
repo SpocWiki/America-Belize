@@ -113,15 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License.public](/_public/\Earth\Continent\America~Central\BelizeLicense.public.md) 
+### [License](/_Standards/Earth/Continent/America~Central/Belize/License.md) 
 
-### [License.internal](/_internal/\Earth\Continent\America~Central\BelizeLicense.internal.md) 
+### [License.public](/_public/Earth/Continent/America~Central/Belize/License.public.md) 
 
-### [License.protect](/_protect/\Earth\Continent\America~Central\BelizeLicense.protect.md) 
+### [License.internal](/_internal/Earth/Continent/America~Central/Belize/License.internal.md) 
 
-### [License.private](/_private/\Earth\Continent\America~Central\BelizeLicense.private.md) 
+### [License.protect](/_protect/Earth/Continent/America~Central/Belize/License.protect.md) 
 
-### [License.personal](/_personal/\Earth\Continent\America~Central\BelizeLicense.personal.md) 
+### [License.private](/_private/Earth/Continent/America~Central/Belize/License.private.md) 
 
-### [License.secret](/_secret/\Earth\Continent\America~Central\BelizeLicense.secret.md)
+### [License.personal](/_personal/Earth/Continent/America~Central/Belize/License.personal.md) 
+
+### [License.secret](/_secret/Earth/Continent/America~Central/Belize/License.secret.md)
 

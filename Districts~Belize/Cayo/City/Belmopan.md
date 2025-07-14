@@ -35,15 +35,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belmopan.public](/_public/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.public.md) 
+### [Belmopan](/_Standards/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.md) 
 
-### [Belmopan.internal](/_internal/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.internal.md) 
+### [Belmopan.public](/_public/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.public.md) 
 
-### [Belmopan.protect](/_protect/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.protect.md) 
+### [Belmopan.internal](/_internal/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.internal.md) 
 
-### [Belmopan.private](/_private/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.private.md) 
+### [Belmopan.protect](/_protect/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.protect.md) 
 
-### [Belmopan.personal](/_personal/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.personal.md) 
+### [Belmopan.private](/_private/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.private.md) 
 
-### [Belmopan.secret](/_secret/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.secret.md)
+### [Belmopan.personal](/_personal/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.personal.md) 
+
+### [Belmopan.secret](/_secret/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.secret.md)
 
