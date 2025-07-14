@@ -1,4 +1,4 @@
-﻿---
+---
 location: [17.25,-88.76667] 
 mapzoom: [7,12] 
 mapmarker: city 
@@ -34,10 +34,16 @@ maxZoom: 18
 
 
 ## Confidential Links & Embeds: 
-- [[../../../../../../_Standards/geo/Continent/South-America/Belize/City/Belmopan|Belmopan]] 
-- [[../../../../../../_public/geo/Continent/South-America/Belize/City/Belmopan.public|Belmopan.public]] 
-- [[../../../../../../_internal/geo/Continent/South-America/Belize/City/Belmopan.internal|Belmopan.internal]] 
-- [[../../../../../../_protect/geo/Continent/South-America/Belize/City/Belmopan.protect|Belmopan.protect]] 
-- [[../../../../../../_private/geo/Continent/South-America/Belize/City/Belmopan.private|Belmopan.private]] 
-- [[../../../../../../_personal/geo/Continent/South-America/Belize/City/Belmopan.personal|Belmopan.personal]] 
-- [[../../../../../../_secret/geo/Continent/South-America/Belize/City/Belmopan.secret|Belmopan.secret]] 
+
+### [Belmopan.public](/_public/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.public.md) 
+
+### [Belmopan.internal](/_internal/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.internal.md) 
+
+### [Belmopan.protect](/_protect/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.protect.md) 
+
+### [Belmopan.private](/_private/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.private.md) 
+
+### [Belmopan.personal](/_personal/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.personal.md) 
+
+### [Belmopan.secret](/_secret/\Earth\Continent\America~Central\Belize\Districts~Belize\Cayo\CityBelmopan.secret.md)
+

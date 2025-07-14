@@ -130,11 +130,17 @@ Capital :: [[Belize/Counties/Cayo/City/Belmopan]]
 [has_place_latitude::17.25] 
 
 
-
 ## Confidential Links & Embeds: 
-- [[Belize|Belize]] 
-- [[../../../../_internal/geo/Continent/America~Central/Belize.internal|Belize.internal]] 
-- [[../../../../_protect/geo/Continent/America~Central/Belize.protect|Belize.protect]] 
-- [[../../../../_private/geo/Continent/America~Central/Belize.private|Belize.private]] 
-- [[../../../../_personal/geo/Continent/America~Central/Belize.personal|Belize.personal]] 
-- [[../../../../_secret/geo/Continent/America~Central/Belize.secret|Belize.secret]] 
+
+### [ReadMe.public](/_public/\Earth\Continent\America~Central\BelizeReadMe.public.md) 
+
+### [ReadMe.internal](/_internal/\Earth\Continent\America~Central\BelizeReadMe.internal.md) 
+
+### [ReadMe.protect](/_protect/\Earth\Continent\America~Central\BelizeReadMe.protect.md) 
+
+### [ReadMe.private](/_private/\Earth\Continent\America~Central\BelizeReadMe.private.md) 
+
+### [ReadMe.personal](/_personal/\Earth\Continent\America~Central\BelizeReadMe.personal.md) 
+
+### [ReadMe.secret](/_secret/\Earth\Continent\America~Central\BelizeReadMe.secret.md)
+
