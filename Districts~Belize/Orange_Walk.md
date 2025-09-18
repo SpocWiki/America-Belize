@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Orange_Walk
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Orange_Walk/
 markerFolder: ./Orange_Walk/

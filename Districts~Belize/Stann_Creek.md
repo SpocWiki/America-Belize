@@ -31,7 +31,7 @@ expiryDate:
 ```leaflet
 id: Stann_Creek
 zoomFeatures: true 
-minZoom: 2 
+minZoom: 4 
 maxZoom: 18
 geojsonFolder: ./Stann_Creek/
 markerFolder: ./Stann_Creek/
