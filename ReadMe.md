@@ -1,4 +1,11 @@
 ---
+aliases:
+  - Belize
+  - Belice
+  - بليز
+  - 伯利兹
+  - Белиз
+  - ReadMe
 location:
   - 17.25
   - -88.7667
@@ -15,18 +22,12 @@ cssclasses:
   - Country
 publish: true
 title: Belize
-linkTitle:
-keywords:
-layout:
+linkTitle: ''
+keywords: ''
+layout: ''
 draft: false
-publishDate:
-expiryDate:
-aliases:
-  - Belize
-  - Belice
-  - بليز
-  - 伯利兹
-  - Белиз
+publishDate: ''
+expiryDate: ''
 Languages:
   - en-BZ
   - es
