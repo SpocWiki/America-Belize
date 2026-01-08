@@ -113,17 +113,17 @@ Creative Commons may be contacted at <http://creativecommons.org/>.
 
 ## Confidential Links & Embeds: 
 
-### [License](/_Standards/Earth/Continent/America~Central/Belize/License.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Belize/License|License]] 
 
-### [License.public](/_public/Earth/Continent/America~Central/Belize/License.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Belize/License.public|License.public]] 
 
-### [License.internal](/_internal/Earth/Continent/America~Central/Belize/License.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Belize/License.internal|License.internal]] 
 
-### [License.protect](/_protect/Earth/Continent/America~Central/Belize/License.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Belize/License.protect|License.protect]] 
 
-### [License.private](/_private/Earth/Continent/America~Central/Belize/License.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Belize/License.private|License.private]] 
 
-### [License.personal](/_personal/Earth/Continent/America~Central/Belize/License.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Belize/License.personal|License.personal]] 
 
-### [License.secret](/_secret/Earth/Continent/America~Central/Belize/License.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Belize/License.secret|License.secret]] 
 

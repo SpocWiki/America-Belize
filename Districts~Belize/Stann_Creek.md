@@ -41,17 +41,17 @@ markerFolder: ./Stann_Creek/
 
 ## Confidential Links & Embeds: 
 
-### [Stann_Creek](/_Standards/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek|Stann_Creek]] 
 
-### [Stann_Creek.public](/_public/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.public|Stann_Creek.public]] 
 
-### [Stann_Creek.internal](/_internal/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.internal|Stann_Creek.internal]] 
 
-### [Stann_Creek.protect](/_protect/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.protect|Stann_Creek.protect]] 
 
-### [Stann_Creek.private](/_private/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.private|Stann_Creek.private]] 
 
-### [Stann_Creek.personal](/_personal/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.personal|Stann_Creek.personal]] 
 
-### [Stann_Creek.secret](/_secret/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Belize/Districts~Belize/Stann_Creek.secret|Stann_Creek.secret]] 
 

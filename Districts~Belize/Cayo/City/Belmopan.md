@@ -14,17 +14,23 @@ tags:
 SpocWebEntityId: 35915
 isDeleted: false
 confidential: public
+dv_is_a_: "[[../../../../../../Geography/Place]]"
+dv_has_place_longitude: -88.76667
+dv_has_place_latitude: 17.25
+dv_name: Belmopan
+dv_Country: "[[../../../../Belize]]"
+dv_Unknown: 32
 ---
 #is_a_/Place  
-#is_a_ :: [[Place]] 
-[has_place_longitude::-88.76667] 
-[has_place_latitude::17.25] 
-[name::Belmopan] 
+is_a_ = `=this.dv_is_a_`
+has_place_longitude = `=this.dv_has_place_longitude` 
+has_place_latitude = `=this.dv_has_place_latitude` 
+name = `=this.dv_name` 
 State ::  
-Country :: [[../../../../Belize]] 
+Country = `=this.dv_Country`
 [StateId::] 
 [Population::] 
-[Unknown::32] 
+Unknown = `=this.dv_Unknown` 
 
 
 ```leaflet
@@ -38,17 +44,17 @@ maxZoom: 18
 
 ## Confidential Links & Embeds: 
 
-### [Belmopan](/_Standards/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan|Belmopan]] 
 
-### [Belmopan.public](/_public/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.public|Belmopan.public]] 
 
-### [Belmopan.internal](/_internal/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.internal|Belmopan.internal]] 
 
-### [Belmopan.protect](/_protect/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.protect|Belmopan.protect]] 
 
-### [Belmopan.private](/_private/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.private|Belmopan.private]] 
 
-### [Belmopan.personal](/_personal/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.personal|Belmopan.personal]] 
 
-### [Belmopan.secret](/_secret/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo/City/Belmopan.secret|Belmopan.secret]] 
 

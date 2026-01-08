@@ -40,17 +40,17 @@ markerFolder: ./Cayo/
 
 ## Confidential Links & Embeds: 
 
-### [Cayo](/_Standards/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.md) 
+### #is_/same_as :: [[/_Standards/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo|Cayo]] 
 
-### [Cayo.public](/_public/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.public.md) 
+### #is_/same_as :: [[/_public/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.public|Cayo.public]] 
 
-### [Cayo.internal](/_internal/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.internal.md) 
+### #is_/same_as :: [[/_internal/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.internal|Cayo.internal]] 
 
-### [Cayo.protect](/_protect/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.protect.md) 
+### #is_/same_as :: [[/_protect/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.protect|Cayo.protect]] 
 
-### [Cayo.private](/_private/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.private.md) 
+### #is_/same_as :: [[/_private/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.private|Cayo.private]] 
 
-### [Cayo.personal](/_personal/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.personal.md) 
+### #is_/same_as :: [[/_personal/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.personal|Cayo.personal]] 
 
-### [Cayo.secret](/_secret/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.secret.md)
+### #is_/same_as :: [[/_secret/Earth/Continent/America~Central/Belize/Districts~Belize/Cayo.secret|Cayo.secret]] 
 
