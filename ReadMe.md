@@ -39,15 +39,13 @@ dv_ISO4217-currency_country_name: BELIZE
 dv_Telephone: 501
 dv_Global: true
 dv_Global_Name: World
-dv_name: Belize
-dv_name-en:
-  - Belize
-  - Belize
-dv_name-es: Belice
-dv_name-fr: Belize
-dv_name-cn: 伯利兹
-dv_name-ar: بليز
-dv_name-ru: Белиз
+dv_has_name_: Belize
+dv_has_name_en: Belize
+dv_has_name_es: Belice
+dv_has_name_fr: Belize
+dv_has_name_cn: 伯利兹
+dv_has_name_ar: بليز
+dv_has_name_ru: Белиз
 dv_CLDR_display_name: Belize
 dv_UNTERM_English: Belize
 dv_UNTERM_English_Formal: Belize
@@ -86,7 +84,7 @@ dv_Small_Island_Developing_States: x
 dv_ISO3166-1-numeric: 84
 dv_ISO2: BZ
 dv_ISO3: BLZ
-dv_name-de: Belize
+dv_has_name_de: Belize
 dv_Area-Total: 22965
 dv_Area-Land: 22800
 dv_Continent: "[[South-America]]"
@@ -113,12 +111,12 @@ Global = `=this.dv_Global`
 Global_Name = `=this.dv_Global_Name` 
 
 name = `=this.dv_name` 
-[	name-en	 :: Belize ] 
-name-es = `=this.dv_name-es` 
-name-fr = `=this.dv_name-fr` 
-name-cn = `=this.dv_name-cn` 
-name-ar = `=this.dv_name-ar` 
-name-ru = `=this.dv_name-ru` 
+[	has_name_en	 :: Belize ] 
+has_name_es = `=this.dv_has_name_es` 
+has_name_fr = `=this.dv_has_name_fr` 
+has_name_cn = `=this.dv_has_name_cn` 
+has_name_ar = `=this.dv_has_name_ar` 
+has_name_ru = `=this.dv_has_name_ru` 
 
 CLDR_display_name = `=this.dv_CLDR_display_name` 
 
@@ -177,8 +175,8 @@ geojsonFolder: .//
 markerFolder: ./
 ```
 
-[name-en::Belize] 
-name-de = `=this.dv_name-de` 
+[has_name_en::Belize] 
+has_name_de = `=this.dv_has_name_de` 
 Area-Total = `=this.dv_Area-Total` 
 Area-Land = `=this.dv_Area-Land` 
 Continent = `=this.dv_Continent`

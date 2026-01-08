@@ -17,7 +17,7 @@ confidential: public
 dv_is_a_: "[[../../../../../../Geography/Place]]"
 dv_has_place_longitude: -88.76667
 dv_has_place_latitude: 17.25
-dv_name: Belmopan
+dv_has_name_: Belmopan
 dv_Country: "[[../../../../Belize]]"
 dv_Unknown: 32
 ---
