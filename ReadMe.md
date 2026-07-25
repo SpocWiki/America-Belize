@@ -161,7 +161,7 @@ emergency_phone_number:
   - "[[/_Standards/WikiData/WD~911,533806|WD~911,533806]]"
   - "[[/_Standards/WikiData/WD~90,25743491|WD~90,25743491]]"
 described_by_source:
-  - "[[../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
+  - "[[../../../../WikiData/WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358|WD~Brockhaus_and_Efron_Encyclopedic_Dictionary,602358]]"
   - "[[/_Standards/WikiData/WD~The_Nuttall_Encyclopædia,3181656|WD~The_Nuttall_Encyclopædia,3181656]]"
   - "[[/_Standards/WikiData/WD~Pax_Leksikon,3351707|WD~Pax_Leksikon,3351707]]"
   - "[[/_Standards/WikiData/WD~The_New_Student's_Reference_Work,16082057|WD~The_New_Student's_Reference_Work,16082057]]"
@@ -698,7 +698,7 @@ dv_ISO2: BZ
 dv_ISO3: BLZ
 dv_is_:
   same_as:
-    - "[[../../../WikiData/WD~Belize,242|WD~Belize,242]]"
+    - "[[../../../../WikiData/WD~Belize,242|WD~Belize,242]]"
     - "[[/_Standards/Earth/Continent/America~Central/Belize|Belize]]"
     - "[[/_public/Earth/Continent/America~Central/Belize.public|Belize.public]]"
     - "[[/_internal/Earth/Continent/America~Central/Belize.internal|Belize.internal]]"
@@ -718,7 +718,7 @@ dv_has_place_latitude: 17.25
 dv_has_url_for_code_repository: https://github.com/SpocWiki/America-Belize
 dv_developed_developing_countries: Developing
 dv_is_same_as:
-  - "[[../../../WikiData/WD~Belize,242|WD~Belize,242]]"
+  - "[[../../../../WikiData/WD~Belize,242|WD~Belize,242]]"
   - "[[/_Standards/Earth/Continent/America~Central/Belize|Belize]]"
   - "[[/_public/Earth/Continent/America~Central/Belize.public|Belize.public]]"
   - "[[/_internal/Earth/Continent/America~Central/Belize.internal|Belize.internal]]"
@@ -735,7 +735,7 @@ dv_is_same_as:
 For more Details, check out this Repository into this Subfolder: 
 has_url_for_code_repository = `=this.dv_has_url_for_code_repository`
 
-[[Belize/ReadMe|ReadMe]] 
+[[ReadMe|ReadMe]] 
 
 ISO4217-currency_alphabetic = `=this.dv_ISO4217-currency_alphabetic`
 ISO4217-currency_name = `=this.dv_ISO4217-currency_name`
@@ -803,7 +803,7 @@ ISO3166-1-numeric = `=this.dv_ISO3166-1-numeric`
 ISO2 = `=this.dv_ISO2`
 ISO3 = `=this.dv_ISO3` 
 
-#is_/same_as :: [[../../../WikiData/WD~Belize,242|WD~Belize,242]] 
+#is_/same_as :: [[../../../../WikiData/WD~Belize,242|WD~Belize,242]] 
 
 ## #has_/map  
 
@@ -822,7 +822,7 @@ markerFile: [[Belize]]
 
 ```leaflet
 id: Belize_Topological
-image: [[../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
+image: [[../../../../../../_public/xLarge.public/Earth/Earth-Topological.png|Earth-Topological.png]]
 bounds:
   - [-90, -180]
   - [90, 180]
@@ -846,13 +846,13 @@ Area-Total = `=this.dv_Area-Total`
 Area-Land = `=this.dv_Area-Land`
 has_place_continent = `=this.dv_has_place_continent`
 VehicleCode = `=this.dv_VehicleCode`
-Capital :: [[Belize/Counties/Cayo/City/Belmopan|Belmopan]]  
+Capital :: [[Counties/Cayo/City/Belmopan|Belmopan]]  
 
-![[Belize/Coat_of_arms_of_Belize.svg|350]]
+![[Coat_of_arms_of_Belize.svg|350]]
 
-![[../../../../_public/xLarge.public/National-Anthem/Anthem-Belize.mp3|Anthem-Belize.mp3]]
+![[../../../../../_public/xLarge.public/National-Anthem/Anthem-Belize.mp3|Anthem-Belize.mp3]]
 
-![[Belize/Flag_of_Belize.svg|350]]
+![[Flag_of_Belize.svg|350]]
 
 Alcohol-l = `=this.dv_Alcohol-l`
 Language-Id = `=this.dv_Language-Id`
